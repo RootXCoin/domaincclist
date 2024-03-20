@@ -1,1 +1,9 @@
-fg
+*.google.com
+google.com
+*.youtube.com
+youtube.com
+*.ytimg.com
+*.facebook.com
+facebook.com
+*.vultr.com
+
