@@ -6,4 +6,4 @@ youtube.com
 *.facebook.com
 facebook.com
 *.vultr.com
-
+sgp-ping.vultr.com
