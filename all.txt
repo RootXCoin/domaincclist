@@ -7,4 +7,4 @@ youtube.com
 facebook.com
 *.vultr.com
 sgp-ping.vultr.com
-10.16.100.244
+ftp.1x0.online
