@@ -1,0 +1,9 @@
+{
+	"cache_domains": [
+	{
+			"name": "xboxlive",
+			"description": "ClineAll",
+			"domain_files": ["all.txt"]
+		}
+	]
+}
