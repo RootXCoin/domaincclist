@@ -8,3 +8,5 @@ facebook.com
 *.vultr.com
 sgp-ping.vultr.com
 ftp.1x0.online
+googlevideo.com
+*.googlevideo.com
