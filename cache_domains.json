@@ -1,9 +1,9 @@
 {
-	"cache_domains": [
-	{
-			"name": "xboxlive",
-			"description": "ClineAll",
-			"domain_files": ["all.txt"]
-		}
-	]
+    "cache_domains": [
+        {
+            "name": "steam",
+            "description": "CDN for all platform",
+            "domain_files": ["all.txt"]
+        }
+    ]
 }
